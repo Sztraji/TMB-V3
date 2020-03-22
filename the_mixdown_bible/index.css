@@ -56,6 +56,7 @@ body
 background-repeat: no-repeat;
 background-position: center;
 background-position-y: top;
+background-position-x: center;
 width: 100%;}
 
 .landing
@@ -327,6 +328,7 @@ body
 {background-image: url("imagenes/mobile/hero.jpg");
 background-repeat: no-repeat;
 background-position-y: top;
+background-position-x: center;
 width: 100%;}
 
 .landing
